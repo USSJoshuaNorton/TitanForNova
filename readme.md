@@ -8,4 +8,9 @@ To install this mod:
     * Message Key: `titan_info`
     * Type: `Messages`
     * Content: Any pre-amble you want, then copy and paste the embed code from the Titan website here.
-5. Test your embed, it should be located at `your.site/main/chat` (or `your.site/index.php/main/chat` if you haven't done the pretty url mod.)
+5. Click on `Add New Message` again.
+   * Message Label: `Discord Chat Header`
+   * Message Key: `titan_header`
+   * Type: `Page titles`
+   * Content: Whatever you want to name your chat page.
+6. Test your embed, it should be located at `your.site/main/chat` (or `your.site/index.php/main/chat` if you haven't done the pretty url mod.)
