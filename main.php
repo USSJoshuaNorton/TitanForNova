@@ -13,7 +13,7 @@ class Main extends Nova_main {
 	 * Put your own methods below this...
 	 */
 
-public function titan()
+public function chat()
 {
 	$this->_regions['content'] = Location::view('main_chat', $this->skin, 'main');
 	$this->_regions['title'].= $this->msgs->get_message('titan_header');
