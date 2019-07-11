@@ -13,4 +13,5 @@ To install this mod:
    * Message Key: `titan_header`
    * Type: `Page titles`
    * Content: Whatever you want to name your chat page.
+7. Look for the `application/controlers/main.php` file. If you've not modified it, replace it with the included `main.php` file. If you've previously modified it, save a copy to `main.php.old`, then copy and paste lines 16–25 in before the last `}` in your existing `main.php` file.
 6. Test your embed, it should be located at `your.site/main/chat` (or `your.site/index.php/main/chat` if you haven't done the pretty url mod.)
