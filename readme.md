@@ -1,3 +1,5 @@
+**I am no longer maintaining this mod, as I am no longer using Titan Embeds. Feel free to fork and improve as you wish.**
+
 To install this mod:
 
 1. Go to [titanembeds.com](https://titanembeds.com/), sign in with your discord account, and configure your embed. You'll need the embed code later in the install.
